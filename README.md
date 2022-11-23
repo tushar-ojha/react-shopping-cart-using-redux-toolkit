@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## **[Go Live Buddy!](https://react-shopping-cart-using-redux-toolkit.vercel.app/)**
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
